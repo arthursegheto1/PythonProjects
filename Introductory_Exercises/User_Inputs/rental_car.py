@@ -1,2 +1,2 @@
-car = input("What kind of rental car would you like? ")
+car = input("What kind of car would you like to rent? ")
 print("Let me see if I can find you a " + car + ".")
